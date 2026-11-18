@@ -7,4 +7,6 @@
 - **Hutang** – pinjaman rumah/kereta/peribadi/PTPTN, kad kredit, PayLater (SPayLater, Atome, Grab, EPP bank…).
 - **Utama** – baki boleh guna, DSR, pecahan duit keluar, aliran tunai 6 bulan.
 
+🔗 **Buka app:** https://lukmanhakimmlh.github.io/BIJAKKEWANGAN/
+
 Data disimpan dalam telefon pengguna sahaja. Buka link dan tekan "Add to Home Screen" untuk pasang sebagai app.
