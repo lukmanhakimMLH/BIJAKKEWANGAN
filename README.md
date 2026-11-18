@@ -1,0 +1,2 @@
+# BIJAKKEWANGAN
+Apps lukman
